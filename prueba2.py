@@ -1,6 +1,7 @@
 a=2
-b=12
 
-c=a+b
+c=10
 
+print(a+c)
 print("programa finalizado")
+print("Version mejorada con c")
