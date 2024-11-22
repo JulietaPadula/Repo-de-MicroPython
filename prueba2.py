@@ -1,7 +1,6 @@
 a=2
-b=10
+b=12
 
 c=a+b
 
-print(c)
 print("programa finalizado")
